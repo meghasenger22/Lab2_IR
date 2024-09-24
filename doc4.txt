@@ -1,0 +1,1 @@
+Messenger is a communication app owned by Facebook. It allows users to send messages, make voice calls, and share media like photos and videos with friends.
